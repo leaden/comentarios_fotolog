@@ -1,6 +1,7 @@
 body {
   background-color: white;
   color:black;
+  
 }
 
 header {
@@ -57,7 +58,10 @@ footer{
   padding: 10px;
 }
 
-
+.formulario button{
+  background-color: #FF0080;
+  border:none;
+}
 
 /* Estilos comentarios */
 
